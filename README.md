@@ -2,7 +2,7 @@
 
 *2:13 AM. You're the only one awake. The hackers aren't.*
 
-<img width="200" height="600" alt="image" src="https://github.com/user-attachments/assets/99095caf-0759-4fd9-a630-30023887810a" />
+<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/6c108087-3a25-44b7-bab0-26fcb57d0d24" />
 
 NIGHT SHIFT is a choose-your-own-adventure game that runs in the terminal. You play a junior cybersecurity analyst, three weeks into the job, working your very first night shift alone at Meridian Freight, a logistics company with 412,000 customers. Your boss Ringo told you nothing ever happens on Tuesdays.
 
