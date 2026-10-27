@@ -51,8 +51,8 @@ Some scenes only happen because of choices you made earlier, so you might not se
 
 | Character | Who they are |
 |---|---|
-| **You** | Junior analyst. Week 3. Very much not ready for this. |
-| **Ringo** | Your boss, the senior analyst. Currently asleep. |
+| **You** | Junior cybersecurity analyst. Week 3. Very much not ready for this. |
+| **Ringo** | Your boss, the senior cybersecurity analyst. Currently asleep. |
 | **Jess** | Works in Finance. Clicked a link she shouldn't have. |
 | **Dev** | The IT guy. Please don't touch his cables. |
 | **Marcus** | The CFO. Has some "suggestions" about keeping things quiet. |
@@ -61,9 +61,9 @@ Some scenes only happen because of choices you made earlier, so you might not se
 
 ## Scoring
 
-Every decision is worth 10 points. At the end you get a score out of 100 and a grade, plus a comment from Ringo:
+Every decision is worth 10 points. At the end you get a score out of 100 and a grade, plus a comment from Ringo;)
 
-| Score | Grade | |
+| Score | Grade | Award |
 |---|---|---|
 | 100 | S+ | LEGEND. They're naming the server room after you. |
 | 90+ | S | Incident Commander material |
@@ -126,7 +126,3 @@ The company, people and IP addresses are all made up. The IPs come from ranges t
 
 </details>
 
----
-
-*Made for COMP9001.*
-<!-- Add your AI-use acknowledgement here if your unit requires one. -->
