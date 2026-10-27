@@ -10,9 +10,7 @@ Then five alerts pop up at once.
 
 Your job is to work out what's actually going on, stop the hackers, and make some tough calls along the way, like whether to wake your boss, what to do about the employee who got tricked, and what to say when a senior executive asks you to keep the whole thing quiet.
 
-I made this for my COMP9001 final project. I'm also studying cybersecurity, and I wanted to make something that shows how a real attack usually happens: not someone "hacking into the mainframe" in a hoodie, but a fake email, a tired person tapping "Approve" on their phone at 1am, and a password left in a spreadsheet.
-
-**Who it's for:** students, new staff, or anyone curious about what a security analyst actually does when things go wrong. You don't need to know anything about cybersecurity to play.
+This is for COMP9001 final project. I'm also studying cybersecurity, and I wanted to make something that shows how a real attack usually happens: by a fake email, a tired person tapping "Approve" on their phone at 1am, and a password left in a spreadsheet.
 
 ---
 
@@ -28,22 +26,20 @@ You only need Python 3. No extra libraries to install.
 python3 night_shift.py
 ```
 
-On Windows, you might need to type `python night_shift.py` instead.
-
 ---
 
 ## How to play
 
-- The game asks your name, then whether you want the slow "movie" typing effect (`y` or `n`).
-- Most questions are multiple choice. Just type `a`, `b` or `c` and press Enter. If you type something else, it'll ask again.
+- The game asks your name, then whether you want the slow cinematic typing effect (`y` or `n`).
+- Most questions are multiple choice. Just type `a`, `b` or `c` and press Enter. If you type something else, it'll ask again and again.
 - A few parts make you type things yourself, like a real analyst would:
   - which alerts are the real attack (type the numbers, e.g. `1 3`)
   - the IP address to block at the firewall
   - which servers to cut off from the network (one at a time, then `done`)
   - a word to search the servers for anything the hackers left behind
-- Good decisions get a quiet `[ OK ] Good call.` Bad ones get a big `[!!!] ALERT: WRONG MOVE [!!!]`, and they'll come back to haunt you at the end.
+- Good decisions get a quiet `[ OK ] Good call.` Bad ones get a big `[!!!] ALERT: WRONG MOVE [!!!]`, and they'll come back to haunt you at the end!.
 
-Some scenes only happen because of choices you made earlier, so you might not see everything on your first run. Play it a few times.
+Some scenes only happen because of choices you made earlier, so you might not see everything on your first run. Play it a few times ;)
 
 ---
 
