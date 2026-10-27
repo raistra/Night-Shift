@@ -93,8 +93,6 @@ Everything in the game is based on how real attacks tend to go:
 
 The "right" answers follow normal incident response steps: figure out what's real, call for help, stop the damage, save evidence, clean up, recover carefully, be honest with the people affected, and fix the actual cause instead of blaming someone.
 
-The company, people and IP addresses are all made up. The IPs come from ranges that are reserved for examples, so they don't belong to anyone.
-
 ---
 
 ## Spoilers
