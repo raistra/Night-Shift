@@ -79,22 +79,6 @@ After your grade, the game explains step by step how the hack actually worked, s
 - `report_<yourname>.txt`: a copy of your results, your feedback and the hack timeline, so you can keep it.
 - `scores.txt`: the high score table. Every game gets added to it, and the top 5 show at the end.
 
-You can delete either file whenever you want. The game will make new ones.
-
----
-
-## Python concepts used
-
-| Concept | Where it is |
-|---|---|
-| Classes and objects | `Game` class (one object per play-through), `InvalidChoice` exception class |
-| Recursion | `search()` looks through folders inside folders to find the hidden ransomware |
-| File input and output | `save_report()` writes the report; `show_high_scores()` writes and reads `scores.txt` |
-| Exceptions | custom `InvalidChoice` for bad answers; `ValueError` and `FileNotFoundError` when reading scores |
-| Loops | a `while` loop for telling Dev which servers to cut off, `for` loops for limited attempts, and a play-again loop |
-| Containers | nested dictionaries for the servers, lists for tips and aftermath, a list of tuples for the grades |
-| Functions | `say()`, `search()`, `get_choice()`, `get_grade()` and a method for each scene |
-
 ---
 
 ## The cybersecurity bits
