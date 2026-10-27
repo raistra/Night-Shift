@@ -61,7 +61,7 @@ Some scenes only happen because of choices you made earlier, so you might not se
 
 ## Scoring
 
-Every decision is worth 10 points. At the end you get a score out of 100 and a grade, plus a comment from Ringo;)
+Every decision is worth 10 points. At the end you get a score out of 100, a grade, an "award", plus a comment from Ringo;)
 
 | Score | Grade | Award |
 |---|---|---|
